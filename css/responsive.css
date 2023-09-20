@@ -1,0 +1,90 @@
+  @media (max-width:991px)
+  {
+    .middle_header .animated_text h1
+    {
+        font-size: 50px !important;
+    }
+    .type_text span
+    {
+        font-size: 30px !important;
+    }
+    .overly a
+    {
+        font-size: 12px !important;
+        padding: 3px 5px !important;
+    }
+    .demo-box::after
+    {
+        font-size: 12px !important;
+    }
+  }
+  @media (max-width:767px)
+  {
+    .middle_header .animated_text h1
+    {
+        font-size: 40px !important;
+    }
+    .type_text span
+    {
+        font-size: 28px !important;
+    }
+    element {
+        font-size: 30px;
+      }
+      .demo-title h2 {
+        font-size: 30px !important;
+      }
+      .demo-title p
+      {
+        font-size: 13px !important;
+      }
+      .overly a {
+        padding: 10px 20px !important;
+        font-size: 16px !important;
+      }
+  }
+  @media (max-width:576px)
+  {
+    .middle_header .animated_text h1
+    {
+        font-size: 28px !important;
+    }
+    .type_text span
+    {
+        font-size: 20px !important;
+    }
+    .demo-title h2 {
+        font-size: 25px !important;
+      }
+  }
+@media (max-width:667px)
+{
+    nav .btn
+    {
+        display: none;
+    }
+}
+@media (max-width: 356px)
+{
+   nav .logo
+   {
+    display: none;
+   }
+   .navbar-toggler
+   {
+    width: 30px;
+    height: 30px;
+    margin: auto;
+   }
+   .demo-title p 
+   {
+    font-size: 12px !important;
+   }
+}
+@media (max-width:330px)
+{
+    .type_text span
+    {
+        font-size: 16px !important;
+    }
+}
