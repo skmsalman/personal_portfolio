@@ -11,6 +11,9 @@ font-family: 'Poppins', sans-serif;
   list-style: none;
   font-family: "Montserrat", sans-serif;
 }
+.slick-dots {
+  padding-left: 0 !important;
+}
 *:focus:not(.item) {
   box-shadow: none !important;
   outline: none !important;
